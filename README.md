@@ -20,7 +20,7 @@ Para el desarrollo de esta aplicación se utilizaron las siguientes tecnologías
 ## **🚀 Demo en Vivo**  
 Este proyecto cuenta con un **deploy en producción**, disponible en el siguiente enlace:  
 
-🔗 **[Visitar la aplicación](https://mi-proyecto.vercel.app)**  
+🔗 **[Visitar la aplicación](https://paint-your-grid.vercel.app)**  
 
 ---
 
