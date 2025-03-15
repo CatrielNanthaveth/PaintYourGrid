@@ -1,0 +1,44 @@
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh; 
+   overflow: hidden; 
+height: 100vh;
+}
+
+.canvas {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 100vw;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  aspect-ratio: 1 / 1;
+  width: 1vw; 
+  box-sizing: border-box;
+  cursor: pointer;
+  background-color: beige;
+  border: 1px solid #ddd;
+}
+
+.color-picker {
+  position: absolute;
+  display: flex;
+  gap: 5px;
+  padding: 5px;
+  background: white;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.color-option {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
