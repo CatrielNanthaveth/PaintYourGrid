@@ -2,7 +2,7 @@
 
 Aplicación Frontend desarrollada como parte del challenge técnico para el proceso de reclutamiento de [Carestino](https://www.carestino.com).  
 
-📌 Para más detalles sobre el desafío, podés consultar la [consigna](https://github.com/CatrielNanthaveth/grid_paint_carestino/blob/main/grid_paint_challenge.pdf).  
+📌 Para más detalles sobre el desafío, podés consultar la [consigna](https://github.com/CatrielNanthaveth/PaintYourGrid/blob/main/grid_paint_challenge.pdf).  
 
 ---
 
